@@ -1,8 +1,6 @@
 Windows-API-Code-Pack-1.1
 =========================
 
-README
-======
 
 NuGet packages (recommended)
 ----------------------------
